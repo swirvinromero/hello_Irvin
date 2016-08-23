@@ -15,4 +15,4 @@ github: https://github.com/swirvinromero/hello_Irvin
 
 }
 
-r = request.post(url, data = payload)
+r = request.post(url, json = payload)
